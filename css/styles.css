@@ -1,0 +1,199 @@
+body{
+  background-color: skyblue;
+  margin:0;
+  text-align: center;
+  width: auto;
+  height: auto;
+}
+div{
+
+  height:100%;
+  background-color: #6fd66f;
+  border-width: 100px;
+}
+.intro{
+  height: 100px;
+    padding-right: 70%;
+    margin: 15px;
+    font-size: 71px;
+    font-style: normal;
+    font-family: monospace;
+}
+.bottom-cloud{
+  position: absolute;
+  font-style: italic;
+  font-family: monospace;
+}
+.top-cloud{
+
+  position: relative;
+  top:100px;
+  left: 300px;
+  width: 247px;
+height: 100px;
+  padding-bottom: 100px;
+  font-style: oblique;
+  font-family: cursive;
+  image-resolution: 100px;
+}
+.world{
+
+  height: 100px;
+  position: relative;
+  top: 350px;
+  bottom: 200px;
+  font-style: italic;
+  font-family: inherit;
+}
+.GIF-1{
+  width: 200px;
+  height: 200px;
+  float: left;
+  position: relative;
+  right: 250px;
+  top:50px;
+
+
+}
+.hello{
+  margin-top: 50px;
+}
+.hello{
+
+  height: 100px;
+  position: relative;
+  top: 574px;
+  bottom: 100px;
+  font-style: oblique;
+  font-family: inherit;
+}
+.okk{
+  padding: 60px;
+  width: 200px;
+  height: 200px;
+  font-style: italic;
+  font-family: monospace;
+}
+.contact{
+  margin: 0;
+}
+.contact{
+
+  height: 100px;
+  position: relative;
+  top: 1000px;
+  bottom: 100px;
+  font-style: italic;
+  font-family: fantasy;
+}
+.message{
+  width: 288px;
+      height: 225px;
+      float: left;
+      position: relative;
+      right: 23px;
+      top: 21px;
+}
+td{
+      height: 31px;
+      width: 329px;
+      text-align: right;
+      vertical-align: text-top;
+      font-style: italic;
+      font-family: cursive;
+}
+h1{
+@import url('https://fonts.googleapis.com/css2?family=Playball&family=Sacramento&display=swap');
+  color: #210c2f;
+  font-size: 100px;
+  font-style: italic;
+font-family: 'Sacramento', cursive;
+}
+.web{
+  @import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+  color:#8c3e86;
+  font-size:65px;
+  font-family: 'Bangers', cursive;
+}
+.new{
+  margin: 0;
+  font-size: 67px;
+  font-style:italic;
+  font-family: monospace;
+}
+.new-cloud{
+  position: relative;
+  left: -233px;
+  width: 130px;
+  height: 64px;
+}
+.newclass{
+  height: 100px;
+}
+
+.p1{
+  padding-left: 10%;
+  padding-right: 10%;
+  font-size: 29px;
+  padding-top: 3%;
+  font-family: 'IM Fell English', serif;
+}
+.blub{
+  float: left;
+  radius:200px;
+  width: 257px;
+  height: 245px;
+}
+.header{
+  padding-top: 100px;
+  background-color: skyblue;
+}
+.instructor{
+    height: 100px;
+    padding-left: 65%;
+    margin: 15px;
+    font-size: 71px;
+    font-style: normal;
+    font-family: monospace;
+}
+.GIF-1a{
+  padding-left: 47%;
+  padding-right: 9%;
+  font-size: 36px;
+  padding-top: 3%;
+  font-family: 'IM Fell English', serif;
+}
+.z{
+  height: 100px;
+    padding-right: 80%;
+    margin: 0px;
+    font-size: 60px;
+    font-style: normal;
+    font-family: monospace;
+    margin-top: 21%;
+
+}
+.bolt{
+  width: 219px;
+  height: 200px;
+  position: relative;
+  right: 650px;
+  top:50px;
+
+}
+.skill{
+  margin-top: -152px;
+    margin-bottom: 0px;
+  font-size: 36px;
+  font-family: 'IM Fell English', serif;
+  padding-left: 50%;
+
+}
+.contacting{
+  height: 106px;
+    padding-left: 59%;
+    margin: 0px;
+    font-size: 66px;
+    font-style: normal;
+    font-family: monospace;
+}
